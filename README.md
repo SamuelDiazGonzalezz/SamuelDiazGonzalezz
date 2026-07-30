@@ -4,13 +4,13 @@
 
 <!-- Typing SVG con colores verde neón Matrix -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=Full+Stack+%26+Systems+Engineer;AI+%26+Automation+Architect;Generative+AI+%26+LLM+Integrations;Building+the+Future+of+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=Computer+Engineering+Student;Full+Stack+%26+Systems+Engineer;AI+%26+Automation+Architect;Building+the+Future+of+Tech" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <a href="#-sobre-m%C3%AD">Sobre mí</a> •
-  <a href="#-ai--machine-learning-expertise">IA & Tech Stack</a> •
-  <a href="#-proyectos--destacados">Proyectos</a> •
+  <a href="#-educaci%C3%B3n">Educación</a> •
+  <a href="#-ai--machine-learning-expertise">IA & Stack</a> •
   <a href="#-github-stats">Estadísticas</a>
 </p>
 
@@ -20,10 +20,23 @@
 
 ## 🚀 Sobre mí
 
+- 🎓 **Estudiante Universitario:** Cursando el último año de Ingeniería Informática.
 - 🔭 **Proyectos Actuales:** Desarrollando sistemas avanzados de IA, herramientas de clipping automático y modelos visuales dinámicos.
 - 🛠️ **Enfoque Principal:** Arquitectura de pipelines de **automatización**, procesamiento de video programático y **sistemas distribuidos**.
 - 🤖 **Especialización:** Integración de Large Language Models (LLMs), visión por computador y workflows multi-agente para automatización de medios interactivos.
 - 💬 **Hablemos sobre:** Python, Docker, React, arquitecturas RAG, microservicios e ingeniería de prompts avanzada.
+
+---
+
+## 🎓 Educación
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ULPGC-4%C2%BA_Ingenier%C3%ADa_Inform%C3%A1tica-000000?style=for-the-badge&logo=graduation-cap&logoColor=00FF66" />
+</p>
+
+- 🏫 **Universidad de Las Palmas de Gran Canaria (ULPGC)**
+- 📘 **Grado en Ingeniería Informática** (4.º Curso - En curso)
+- 💡 Especializándome en **Ingeniería del Software, Sistemas Distribuidos e Inteligencia Artificial**.
 
 ---
 
