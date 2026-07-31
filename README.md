@@ -21,7 +21,7 @@
 ## 🚀 Sobre mí
 
 - 🎓 **Estudiante Universitario:** Cursando el último año de Ingeniería Informática.
-- 🔭 **Proyectos Actuales:** Desarrollando sistemas avanzados de IA, herramientas de clipping automático y modelos visuales dinámicos.
+- 🔭 **Proyectos Actuales:** Desarrollando sistemas avanzados de IA, apps, herramientas de clipping automático y modelos visuales dinámicos.
 - 🛠️ **Enfoque Principal:** Arquitectura de pipelines de **automatización**, procesamiento de video programático y **sistemas distribuidos**.
 - 🤖 **Especialización:** Integración de Large Language Models (LLMs), visión por computador y workflows multi-agente para automatización de medios interactivos.
 - 💬 **Hablemos sobre:** Python, Docker, React, arquitecturas RAG, microservicios e ingeniería de prompts avanzada.
